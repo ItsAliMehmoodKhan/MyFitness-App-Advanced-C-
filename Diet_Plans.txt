@@ -1,0 +1,14 @@
+Meal 1: Eggs
+Meal 1 Calories : 500
+Meal 2: fish
+Meal 2 Calories : 700
+Meal 3: chicken
+Meal 3 Calories : 600
+Meal 4: pouridge
+Meal 4 Calories : 500
+Meal 5: salad
+Meal 5 Calories : 200
+Meal 6: fruits
+Meal 6 Calories : 300
+Meal 7: biryani
+Meal 7 Calories : 1000

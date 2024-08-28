@@ -1,0 +1,7 @@
+Day 1 Workout: gym
+Day 2 Workout: rest
+Day 3 Workout: run
+Day 4 Workout: jog
+Day 5 Workout: swim
+Day 6 Workout: rest
+Day 7 Workout: gym

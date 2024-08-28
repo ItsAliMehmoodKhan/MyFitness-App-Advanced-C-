@@ -1,0 +1,5 @@
+No of Meals in your day:2
+Meal 1: eggs
+Meal 1 Calories : 500
+Meal 2: fish
+Meal 2 Calories : 300

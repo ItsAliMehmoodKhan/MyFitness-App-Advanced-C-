@@ -1,0 +1,6 @@
+Cycling Routes no 1 in Islamabad is :
+F9-F10-F11
+Total Distance: 6km
+Cycling Routes no 2 in Islamabad is :
+G11-G10
+Total Distance: 4km

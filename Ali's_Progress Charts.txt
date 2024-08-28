@@ -1,0 +1,8 @@
+Date		Duration(min)	Calories Burned
+1/1/1	30		500
+2/1/1	40		600
+3/1/1	35		550
+Date		Weight(kg)
+1/1/1	89
+2/1/1	88
+3/1/1	87
